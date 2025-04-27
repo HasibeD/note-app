@@ -11,7 +11,7 @@ SecureNote er en simpel webapplikation, hvor brugere kan:
 - Node.js
 - Express
 - HTML, CSS
-- Filbaseret lagring (JSON-filer) i stedet for database
+- Filbaseret lagring (JSON-filer) 
 
 ## Installation
 
