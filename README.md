@@ -18,6 +18,6 @@ SecureNote er en simpel webapplikation, hvor brugere kan:
 1. Download projektet
 2. Kør `npm install`
 3. Start serveren med `node app.js`
-4. Åbn i browser: `http://localhost:3000`
+4. Åbn i browser: `http://localhost:8080`
 
 
